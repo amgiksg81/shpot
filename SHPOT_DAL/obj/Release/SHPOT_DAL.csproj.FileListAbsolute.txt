@@ -1,0 +1,10 @@
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\SHPOT_DAL.dll.config
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\SHPOT_DAL.dll
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\SHPOT_DAL.pdb
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\EntityFramework.dll
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\EntityFramework.SqlServer.dll
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\EntityFramework.xml
+F:\Workspc\SHPOTApp\SHPOT_DAL\bin\Release\EntityFramework.SqlServer.xml
+F:\Workspc\SHPOTApp\SHPOT_DAL\obj\Release\SHPOT_DAL.dll
+F:\Workspc\SHPOTApp\SHPOT_DAL\obj\Release\SHPOT_DAL.pdb
+F:\Workspc\SHPOTApp\SHPOT_DAL\obj\Release\SHPOT_DAL.csprojResolveAssemblyReference.cache

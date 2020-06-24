@@ -1,0 +1,48 @@
+D:\Latest Project\PushNotification\PushNotification\bin\Debug\PushNotification.dll
+D:\Latest Project\PushNotification\PushNotification\bin\Debug\PushNotification.pdb
+D:\Latest Project\PushNotification\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+D:\Latest Project\PushNotification\PushNotification\obj\Debug\PushNotification.dll
+D:\Latest Project\PushNotification\PushNotification\obj\Debug\PushNotification.pdb
+D:\projects\PushNotification\PushNotification\bin\Debug\PushNotification.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\PushNotification.pdb
+D:\projects\PushNotification\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+D:\projects\PushNotification\PushNotification\obj\Debug\PushNotification.dll
+D:\projects\PushNotification\PushNotification\obj\Debug\PushNotification.pdb
+D:\projects\PushNotification\PushNotification\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Apple.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Core.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\Newtonsoft.Json.xml
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Apple.pdb
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Core.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushNotification.dll
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushNotification.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\Newtonsoft.Json.dll
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\Newtonsoft.Json.xml
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushSharp.Apple.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushSharp.Core.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\obj\Debug\PushNotification.dll
+D:\personal\git-repository\Push-Notification\PushNotification\obj\Debug\PushNotification.pdb
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\obj\Debug\PushNotification.dll
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\obj\Debug\PushNotification.pdb
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\PushNotification.dll.config
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\PushNotification.dll
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\PushNotification.pdb
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\PushSharp.Apple.pdb
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\PushSharp.Core.pdb
+C:\Users\Anita\Downloads\Push-Notification-master\Push-Notification-master\PushNotification\bin\Debug\PushSharp.Google.pdb
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushNotification.dll.config
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushNotification.dll
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushNotification.pdb
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\Newtonsoft.Json.dll
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushSharp.Core.dll
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushSharp.Google.dll
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\Newtonsoft.Json.xml
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushSharp.Core.pdb
+F:\Workspc\InProgress\SHPOTApp\PushNotification\bin\Debug\PushSharp.Google.pdb
+F:\Workspc\InProgress\SHPOTApp\PushNotification\obj\Debug\PushNotification.dll
+F:\Workspc\InProgress\SHPOTApp\PushNotification\obj\Debug\PushNotification.pdb
+F:\Workspc\InProgress\SHPOTApp\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache

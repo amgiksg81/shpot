@@ -1,0 +1,17 @@
+F:\Workspc\SHPOTApp\TestClient\bin\TestClient.dll.config
+F:\Workspc\SHPOTApp\TestClient\bin\TestClient.dll
+F:\Workspc\SHPOTApp\TestClient\bin\TestClient.pdb
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_BLL.dll
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_ViewModel.dll
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_DAL.dll
+F:\Workspc\SHPOTApp\TestClient\bin\EntityFramework.dll
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_BLL.pdb
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_BLL.dll.config
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_ViewModel.pdb
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_ViewModel.dll.config
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_DAL.pdb
+F:\Workspc\SHPOTApp\TestClient\bin\SHPOT_DAL.dll.config
+F:\Workspc\SHPOTApp\TestClient\bin\EntityFramework.xml
+F:\Workspc\SHPOTApp\TestClient\obj\Release\TestClient.csprojResolveAssemblyReference.cache
+F:\Workspc\SHPOTApp\TestClient\obj\Release\TestClient.dll
+F:\Workspc\SHPOTApp\TestClient\obj\Release\TestClient.pdb

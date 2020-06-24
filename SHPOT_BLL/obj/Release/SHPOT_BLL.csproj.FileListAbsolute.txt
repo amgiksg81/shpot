@@ -1,0 +1,14 @@
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_BLL.dll.config
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_BLL.dll
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_BLL.pdb
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_DAL.dll
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_ViewModel.dll
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\EntityFramework.dll
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_DAL.pdb
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_DAL.dll.config
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_ViewModel.pdb
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\SHPOT_ViewModel.dll.config
+F:\Workspc\SHPOTApp\SHPOT_BLL\bin\Release\EntityFramework.xml
+F:\Workspc\SHPOTApp\SHPOT_BLL\obj\Release\SHPOT_BLL.csprojResolveAssemblyReference.cache
+F:\Workspc\SHPOTApp\SHPOT_BLL\obj\Release\SHPOT_BLL.dll
+F:\Workspc\SHPOTApp\SHPOT_BLL\obj\Release\SHPOT_BLL.pdb

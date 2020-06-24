@@ -1,0 +1,54 @@
+﻿@model SHPOT_ViewModel.SupportQueryVM
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "SHPOT - Support";
+}
+
+<h3>Support Query</h3>
+<hr />
+<span class="text-success">@ViewBag.SuccessMessage</span>
+
+<span class="text-danger">@ViewBag.UnSuccessMessage</span>
+
+@using (Html.BeginForm("AddSupportQuery", "UserEmail", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    Html.EnableClientValidation(true);
+
+    <div class="form-horizontal">
+        
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            <span class="control-label col-md-2">Full Name</span>
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.FullName, null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.FullName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <span class="control-label col-md-2">Email Address</span>
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.EmailAddress, null, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.EmailAddress, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <span class="control-label col-md-2">Query / Suggestion</span>
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Query, 4, 2, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Query, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Submit" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

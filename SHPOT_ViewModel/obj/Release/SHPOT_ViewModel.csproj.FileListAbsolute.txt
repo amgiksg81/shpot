@@ -1,0 +1,10 @@
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\SHPOT_ViewModel.dll.config
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\SHPOT_ViewModel.dll
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\SHPOT_ViewModel.pdb
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\EntityFramework.dll
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\EntityFramework.SqlServer.dll
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\EntityFramework.xml
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\bin\Release\EntityFramework.SqlServer.xml
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\obj\Release\SHPOT_ViewModel.dll
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\obj\Release\SHPOT_ViewModel.pdb
+F:\Workspc\SHPOTApp\SHPOT_ViewModel\obj\Release\SHPOT_ViewModel.csprojResolveAssemblyReference.cache
